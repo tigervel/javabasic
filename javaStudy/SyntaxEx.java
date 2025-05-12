@@ -30,9 +30,6 @@ package javaStudy;
  *  한번 이상 사용하면 에러입니다. 또한 이 public 을 가진 클래스가 대표 클래스가 되고, main 메서드를 갖게 되며, 파일명을 이 클래스 명으로 합니다.
  *  
  */
-class cal{
-
-}
 public class SyntaxEx {
 	
 }
